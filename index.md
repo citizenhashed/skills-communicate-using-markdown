@@ -9,4 +9,8 @@
 var myVar = "Hello World";
 ```
 
+- [x] Start learning github
+- [ ] ???
+- [ ] Become super shadowy coder
+
 ![remiliangel](https://github.com/user-attachments/assets/b173420b-5864-4013-9d71-8cea577d4311)
